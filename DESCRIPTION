@@ -1,0 +1,12 @@
+Package: MpLMMGMM
+Type: Package
+Title: A penalized linear mixed model with generalized method of moments for prediction analysis on high-dimensional multi-omics data
+Version: 0.1.0
+Author: Xiaqiong Wang,Yalu Wen
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: glmnet, MASS
